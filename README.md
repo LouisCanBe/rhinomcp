@@ -4,6 +4,8 @@
 
 RhinoMCP connects Rhino to AI agents through the Model Context Protocol (MCP), allowing AI agents to directly interact with and control Rhino. This integration enables prompt assisted 3D modeling in Rhino 3D.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LouisCanBe/rhinomcp)
+
 ## Features
 
 - **Two-way communication**: Connect AI agents to Rhino through a socket-based server
